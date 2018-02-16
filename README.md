@@ -1,3 +1,3 @@
 # blue-pic
 
-twitter.com/__blu___
+a twiiter bot for blue squares
